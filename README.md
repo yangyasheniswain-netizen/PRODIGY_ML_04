@@ -1,6 +1,6 @@
 # PRODIGY_ML_04
 
-## Hand Gesture Recognition
+## Hand Gesture Recognition using Machine Learning | Prodigy InfoTech ML Internship Task 04
 
 ### Internship
 Prodigy InfoTech Machine Learning Internship
